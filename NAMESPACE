@@ -1,0 +1,5 @@
+useDynLib(rabbitandchicken, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+export(rac)
+export(RAC)
+importFrom(Rcpp, evalCpp)

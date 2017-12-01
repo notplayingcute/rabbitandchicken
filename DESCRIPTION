@@ -1,0 +1,11 @@
+Package: rabbitandchicken
+Type: Package
+Title: return rabbit
+Version: 1.0
+Date: 2017-12-01
+Author: Notplayingcute
+Maintainer: Notplayingcute <1613104@mail.nankai.edu.cn>
+Description: rabbit and chicken in a cage
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.13)
+LinkingTo: Rcpp
